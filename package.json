@@ -1,0 +1,35 @@
+{
+  "name": "NextJS Boilerplate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node server.js",
+    "build": "next build",
+    "start": "NODE_ENV=production node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@zeit/next-css": "^0.2.0",
+    "compression": "^1.7.3",
+    "express": "^4.16.3",
+    "isomorphic-unfetch": "^2.1.0",
+    "next": "^6.1.1",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-ga": "^2.5.3",
+    "react-transition-group": "^2.4.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MathiasaurusRex/mathiasrechtzigel_2018.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MathiasaurusRex/mathiasrechtzigel_2018/issues"
+  },
+  "homepage": "https://github.com/MathiasaurusRex/mathiasrechtzigel_2018#readme",
+  "description": ""
+}
